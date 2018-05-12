@@ -1,0 +1,31 @@
+_repo: Sc-nes-de-la-vie-de-jeunesseNouvelles_18537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murger, Henri
+    alias: Murger, Henry
+    birthdate: 1822
+    deathdate: 1861
+    gutenberg_agent_id: '6197'
+    url: http://www.gutenberg.org/2009/agents/6197
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18537'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Equality -- Fiction'
+- !lcsh 'Working class -- France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Cynicism -- Fiction'
+title: 'Scènes de la vie de jeunesse: Nouvelles'
+url: http://www.gutenberg.org/ebooks/18537
