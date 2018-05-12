@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6197
     wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18537#Sc-nes-de-la-vie-de-jeunesseNouvelles
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2006-06-08'
 gutenberg_type: Text
